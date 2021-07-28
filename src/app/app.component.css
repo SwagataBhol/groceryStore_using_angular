@@ -1,0 +1,60 @@
+
+table{
+    margin-top: 7%;
+    background-color: blueviolet;
+    border-collapse: collapse;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 1px groove blue;
+    
+}
+tr{
+    display: flex;
+    border: solid white;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+
+}
+td{
+    color:white;
+    font-size: 30px;
+    font-size: 150%;
+    vertical-align: middle;
+    
+   
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color:lightpink;
+}
+#grand{
+    color:deeppink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    height: 30px;
+    width: auto;
+    border-radius: 7px;
+    margin-right: 1%;
+}
+header{
+    display: flex;
+    justify-content: center;
+    color: papayawhip;
+}
+form{
+    display: flex;
+    justify-content: center;
+   
+}
+th{
+    font-size: 150%;
+    color: whitesmoke;
+    
+}
+
+
